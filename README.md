@@ -1,2 +1,2 @@
-# treencol
-My personal fremwork
+# Treencol
+My personal framework
